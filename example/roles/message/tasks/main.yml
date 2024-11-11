@@ -1,2 +1,5 @@
 ---
 # tasks file for message
+- name: Print message
+  debug:
+    msg: "{{ message_msg }}"

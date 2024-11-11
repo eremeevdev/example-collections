@@ -1,2 +1,3 @@
 ---
 # defaults file for message
+message_msg: "Hello world"
