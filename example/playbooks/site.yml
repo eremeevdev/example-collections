@@ -1,0 +1,4 @@
+- hosts: all
+  roles:
+    - eremeev.example.message
+    - eremeev.example.ping
